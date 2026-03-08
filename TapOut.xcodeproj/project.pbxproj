@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9F316CC82F4CE6F700886B0B /* TapOut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = TapOut.app; path = "/Users/colah/Documents/Developer/TapOut/build/Debug-iphoneos/TapOut.app"; sourceTree = "<absolute>"; };
+		9F316E472F5E3D9E00886B0B /* TapOut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapOut.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				9F316CCA2F4CE6F700886B0B /* TapOut */,
+				9F316E472F5E3D9E00886B0B /* TapOut.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = TapOut;
-			productReference = 9F316CC82F4CE6F700886B0B /* TapOut.app */;
+			productReference = 9F316E472F5E3D9E00886B0B /* TapOut.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
